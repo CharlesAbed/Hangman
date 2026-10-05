@@ -9,6 +9,10 @@ __pycache__/
 # Runtime high-score data
 highscore.txt
 
+# Generated PDF guide
+/guide_hangman_debutant.pdf
+/hangman/guide_hangman_debutant.pdf
+
 # Unused background-image demo and duplicate assets
 /assets/
 /hangman/assets/

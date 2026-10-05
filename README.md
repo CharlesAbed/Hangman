@@ -44,7 +44,7 @@ python .\hangman\challenge.py .\hangman\my_wordlist.txt --penalties 6 --length 5
 - `--length` : longueur du mot à choisir (facultatif).
 - `--theme` : thème affiché au début de la partie (`general` par défaut).
 
-## Générer le guide PDF
+## Générer le guide PDF (facultatif)
 
 Depuis la racine du projet :
 
@@ -52,4 +52,4 @@ Depuis la racine du projet :
 python .\hangman\generer_guide.py
 ```
 
-Le fichier PDF est généré dans le dossier `hangman`.
+Le fichier PDF est généré dans le dossier `hangman`. Le PDF généré n'est pas suivi par Git.
