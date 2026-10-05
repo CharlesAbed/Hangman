@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Runtime high-score data
+highscore.txt
+
+# Unused background-image demo and duplicate assets
+/assets/
+/hangman/assets/
+/hangman/main.py
+
+# Incomplete exercises and superseded/unused files
+/hangman/draw
+/hangman/empty_wordlist.txt
+/hangman/hangman.py
+/hangman/highscore.py
+/hangman/task 3.4.py
+/hangman/wrong_words_list.txt
